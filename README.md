@@ -159,13 +159,3 @@ sudo systemctl start octoprint
 - Documentação OctoPrint: https://docs.octoprint.org
 
 Qualquer dúvida, abra uma issue aqui no repositório!
-
-Boas impressões! 🖨️
-```
-
-É só criar o repositório no GitHub, colar esse conteúdo no README.md e pronto!  
-Se quiser, posso gerar também uma versão em inglês ou adicionar imagens/screenshots. É só pedir!
-```
-
-Agora é só colar no GitHub!  
-Se quiser, posso gerar também uma versão em inglês ou adicionar imagens/screenshots. É só pedir! 🚀
